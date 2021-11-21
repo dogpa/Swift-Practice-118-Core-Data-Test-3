@@ -9,23 +9,35 @@
 /* Begin PBXBuildFile section */
 		2D21E5252749E5F100447DA6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D21E5242749E5F100447DA6 /* AppDelegate.swift */; };
 		2D21E5272749E5F100447DA6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D21E5262749E5F100447DA6 /* SceneDelegate.swift */; };
-		2D21E5292749E5F100447DA6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D21E5282749E5F100447DA6 /* ViewController.swift */; };
 		2D21E52C2749E5F100447DA6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D21E52A2749E5F100447DA6 /* Main.storyboard */; };
 		2D21E52F2749E5F100447DA6 /* Swift_Practice___118_Core_Data_Test_3.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2D21E52D2749E5F100447DA6 /* Swift_Practice___118_Core_Data_Test_3.xcdatamodeld */; };
 		2D21E5312749E5F200447DA6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D21E5302749E5F200447DA6 /* Assets.xcassets */; };
 		2D21E5342749E5F200447DA6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D21E5322749E5F200447DA6 /* LaunchScreen.storyboard */; };
+		2D21E53D274A0A1700447DA6 /* Record+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D21E53B274A0A1700447DA6 /* Record+CoreDataClass.swift */; };
+		2D21E53E274A0A1700447DA6 /* Record+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D21E53C274A0A1700447DA6 /* Record+CoreDataProperties.swift */; };
+		2D21E543274A0A7E00447DA6 /* RandomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D21E542274A0A7E00447DA6 /* RandomTableViewCell.swift */; };
+		2D21E545274A0A8B00447DA6 /* RandomTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D21E544274A0A8B00447DA6 /* RandomTableViewController.swift */; };
+		2D21E547274A0AA200447DA6 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D21E546274A0AA200447DA6 /* SearchViewController.swift */; };
+		2D21E54A274A0B9F00447DA6 /* Type Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D21E549274A0B9F00447DA6 /* Type Array.swift */; };
+		2D21E54C274A14C300447DA6 /* SearchTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D21E54B274A14C300447DA6 /* SearchTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		2D21E5212749E5F100447DA6 /* Swift Practice # 118 Core Data Test 3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift Practice # 118 Core Data Test 3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D21E5242749E5F100447DA6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2D21E5262749E5F100447DA6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		2D21E5282749E5F100447DA6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		2D21E52B2749E5F100447DA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2D21E52E2749E5F100447DA6 /* Swift_Practice___118_Core_Data_Test_3.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "Swift_Practice___118_Core_Data_Test_3.xcdatamodel"; sourceTree = "<group>"; };
 		2D21E5302749E5F200447DA6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D21E5332749E5F200447DA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2D21E5352749E5F200447DA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2D21E53B274A0A1700447DA6 /* Record+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Record+CoreDataClass.swift"; sourceTree = "<group>"; };
+		2D21E53C274A0A1700447DA6 /* Record+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Record+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		2D21E542274A0A7E00447DA6 /* RandomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomTableViewCell.swift; sourceTree = "<group>"; };
+		2D21E544274A0A8B00447DA6 /* RandomTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomTableViewController.swift; sourceTree = "<group>"; };
+		2D21E546274A0AA200447DA6 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		2D21E549274A0B9F00447DA6 /* Type Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Type Array.swift"; sourceTree = "<group>"; };
+		2D21E54B274A14C300447DA6 /* SearchTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,9 +70,12 @@
 		2D21E5232749E5F100447DA6 /* Swift Practice # 118 Core Data Test 3 */ = {
 			isa = PBXGroup;
 			children = (
+				2D21E548274A0B8F00447DA6 /* Type Array */,
+				2D21E53F274A0A1D00447DA6 /* Data Core */,
+				2D21E540274A0A4B00447DA6 /* RandomTableVC */,
+				2D21E541274A0A5F00447DA6 /* SearchVC */,
 				2D21E5242749E5F100447DA6 /* AppDelegate.swift */,
 				2D21E5262749E5F100447DA6 /* SceneDelegate.swift */,
-				2D21E5282749E5F100447DA6 /* ViewController.swift */,
 				2D21E52A2749E5F100447DA6 /* Main.storyboard */,
 				2D21E5302749E5F200447DA6 /* Assets.xcassets */,
 				2D21E5322749E5F200447DA6 /* LaunchScreen.storyboard */,
@@ -68,6 +83,41 @@
 				2D21E52D2749E5F100447DA6 /* Swift_Practice___118_Core_Data_Test_3.xcdatamodeld */,
 			);
 			path = "Swift Practice # 118 Core Data Test 3";
+			sourceTree = "<group>";
+		};
+		2D21E53F274A0A1D00447DA6 /* Data Core */ = {
+			isa = PBXGroup;
+			children = (
+				2D21E53B274A0A1700447DA6 /* Record+CoreDataClass.swift */,
+				2D21E53C274A0A1700447DA6 /* Record+CoreDataProperties.swift */,
+			);
+			path = "Data Core";
+			sourceTree = "<group>";
+		};
+		2D21E540274A0A4B00447DA6 /* RandomTableVC */ = {
+			isa = PBXGroup;
+			children = (
+				2D21E544274A0A8B00447DA6 /* RandomTableViewController.swift */,
+				2D21E542274A0A7E00447DA6 /* RandomTableViewCell.swift */,
+			);
+			path = RandomTableVC;
+			sourceTree = "<group>";
+		};
+		2D21E541274A0A5F00447DA6 /* SearchVC */ = {
+			isa = PBXGroup;
+			children = (
+				2D21E546274A0AA200447DA6 /* SearchViewController.swift */,
+				2D21E54B274A14C300447DA6 /* SearchTableViewCell.swift */,
+			);
+			path = SearchVC;
+			sourceTree = "<group>";
+		};
+		2D21E548274A0B8F00447DA6 /* Type Array */ = {
+			isa = PBXGroup;
+			children = (
+				2D21E549274A0B9F00447DA6 /* Type Array.swift */,
+			);
+			path = "Type Array";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -140,10 +190,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2D21E5292749E5F100447DA6 /* ViewController.swift in Sources */,
+				2D21E543274A0A7E00447DA6 /* RandomTableViewCell.swift in Sources */,
+				2D21E53E274A0A1700447DA6 /* Record+CoreDataProperties.swift in Sources */,
+				2D21E547274A0AA200447DA6 /* SearchViewController.swift in Sources */,
+				2D21E53D274A0A1700447DA6 /* Record+CoreDataClass.swift in Sources */,
+				2D21E545274A0A8B00447DA6 /* RandomTableViewController.swift in Sources */,
 				2D21E5252749E5F100447DA6 /* AppDelegate.swift in Sources */,
 				2D21E52F2749E5F100447DA6 /* Swift_Practice___118_Core_Data_Test_3.xcdatamodeld in Sources */,
 				2D21E5272749E5F100447DA6 /* SceneDelegate.swift in Sources */,
+				2D21E54A274A0B9F00447DA6 /* Type Array.swift in Sources */,
+				2D21E54C274A14C300447DA6 /* SearchTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
